@@ -1,3 +1,7 @@
+Установка IoT Edge в Kubernetes (Предварительная версия)
+
+https://docs.microsoft.com/ru-ru/azure/iot-edge/how-to-install-iot-edge-kubernetes
+
 <img src="docs/img/OpenYurt.png" width="400" height="94" align="middle" /><br/>
 
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
